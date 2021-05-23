@@ -1,0 +1,73 @@
+body{
+    background-color: #34568B;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: red;
+   
+    
+}
+
+*{
+    text-align: center;
+}
+
+#big{
+  font-family: cursive;
+
+   
+  
+}
+
+.framework{
+    background-image: url('yap.jpg');
+border-style: solid;
+border-color:blue;
+border-radius: 25px;
+width: 80vw;
+height: 20vw;
+margin: auto
+;
+}
+
+a:hover{
+    background-color: tomato;
+}
+
+a{
+    color: hotpink;
+}
+
+
+li{
+    display: block;
+    color: white;
+    padding: 16 px;
+    text-transform: capitalize;
+    text-decoration: turquoise;
+    font-size: xx-large ;
+}
+
+input[type=text]{
+width: 90%;
+padding: 12px 20px;
+margin: 8px 0;
+border: 3px solid  #555;
+color:green;
+}
+
+input[type=button],
+input[type=submit]
+{
+    background-color: blueviolet;
+    border: none;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+ul li{
+    margin: 5px;
+    background: tomato;
+}
